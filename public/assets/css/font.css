@@ -1,0 +1,36 @@
+/*Font*/
+@font-face{
+	font-family: Lato;
+	src: url("../font/Lato-Regular.ttf");
+}
+
+@font-face{
+  font-family: LatoThin;
+  src: url("../font/Lato-Thin.ttf");
+}
+
+@font-face{
+	font-family: Montserrat;
+	src: url("../font/Montserrat-Regular.otf");
+}
+
+@font-face{
+	font-family: MontserratBold;
+	src: url("../font/Montserrat-Bold.otf");
+}
+
+.text-lato{
+  font-family: Lato!important;
+}
+
+.text-lato-thin{
+  font-family: LatoThin!important;
+}
+
+.text-montserrat{
+  font-family: MOntserrat!important;
+}
+
+.text-montserrat-bold{
+  font-family: MontserratBold!important;
+}
